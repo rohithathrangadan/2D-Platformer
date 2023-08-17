@@ -14,6 +14,5 @@
 10. Mobile touch controls
 11. Health system
 
-#Links
 Gameplay and Build: https://drive.google.com/drive/folders/1SXfgZxmf0mxCkN1yFjBXDkuk-1cqB6RL?usp=drive_link
 
